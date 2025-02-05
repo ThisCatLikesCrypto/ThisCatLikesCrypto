@@ -1,5 +1,5 @@
 Hello! I'm Wilbur, or ThisCatLikesCrypto. I mainly use HTML/CSS, JS and Python. 
-My website is https://wilburwilliams.uk, or https://wilbur.is-a.dev if you're just here for the programming (fair).
+My website is https://wilburwilliams.uk.
 Current main focus: aqasbasement (and probably will be for like a year cuz GCSEs)
 
 
